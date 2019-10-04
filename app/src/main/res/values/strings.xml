@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">KirayeKa</string>
+    <string name="slogan">Paise Bachao! KirayeKa Se Mangao!</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="discuss_about_header">Select security question</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="answer">Answer</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="done">Done</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="new_password">New Password</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="categories">Categories</string>
+    <string name="cart">Cart</string>
+    <string name="your_orders">Your orders</string>
+    <string name="logout">Logout</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

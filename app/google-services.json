@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "788391756726",
+    "firebase_url": "https://kirayeka-7d015.firebaseio.com",
+    "project_id": "kirayeka-7d015",
+    "storage_bucket": "kirayeka-7d015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788391756726:android:6796a971ab24bab3",
+        "android_client_info": {
+          "package_name": "com.example.kirayeka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788391756726-c153n3dij709p0ch6506dgnn12dc673l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kirayeka",
+            "certificate_hash": "2ac195172c9648c6ad47e71203103f2eb9cfbe3a"
+          }
+        },
+        {
+          "client_id": "788391756726-hn36jq0hvb3ugn4i7k2dq802eu07vva6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Y7V1kwmj2CK2UuyaySJ2dFY1ZdewQNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788391756726-hn36jq0hvb3ugn4i7k2dq802eu07vva6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
